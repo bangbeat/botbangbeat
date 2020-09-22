@@ -1,0 +1,6 @@
+{
+	"prefix": "*",
+	"time": "5",
+	"Owners": ["242285698261057536"],
+	"StopIfTimeIsLessYhan5Seconds": true
+}
